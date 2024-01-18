@@ -12,7 +12,8 @@ import { LoginpageComponent } from './folder/loginpage/loginpage.component';
     standalone: true,
     templateUrl: './app.component.html',
     styleUrl: './app.component.css',
-    imports: [CommonModule, RouterOutlet,TestbodyComponent, MyComponentComponent ,BodyComponent,LoginpageComponent,TopnavbarComponent, SecondnavbarComponent ]
+    imports: [CommonModule, RouterOutlet,TestbodyComponent, MyComponentComponent ,
+      BodyComponent,LoginpageComponent,TopnavbarComponent, SecondnavbarComponent ]
 })
 export class AppComponent {
   title = 'my-new-project';

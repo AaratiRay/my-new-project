@@ -1,6 +1,6 @@
 .navbar {
  
-  height: 185px; 
+  height: 189px; 
   background-color:#008ca1;
   color: white; 
   top: 0;
@@ -42,7 +42,7 @@
   position: absolute; 
   right: 0; 
   width:200px;
-  height:280px;
+  height:290px;
 }
 
 .navbar-toggle {
